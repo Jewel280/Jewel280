@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jewel280&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+🙂;I+am+A.+M.+Muhammad+Jewel;Welcome+dear+🫡+🫱🏻‍🫲🏻+♥️&center=true&size=25">
+  </a>
+</h1>
 <!--
 **Jewel280/Jewel280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
